@@ -10,8 +10,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class CalculatorUITest {
 
     private CalculatorUI calculatorUI;
-
+    
     @BeforeEach
+    "Hello";
     void setUp() {
         calculatorUI = new CalculatorUI();
     }
